@@ -1,3 +1,6 @@
+# submit datafile
+BASELINE_Linear.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
